@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,p as c,e as _,a}from"./index.3613c044.js";const d={},r=e=>(c("data-v-47636110"),e=e(),_(),e),i={class:"row"},n=r(()=>a("div",{class:"col-12 title"},"\u71B1\u9580\u63A8\u85A6",-1)),p=[n];function l(e,h){return o(),s("div",i,p)}var v=t(d,[["render",l],["__scopeId","data-v-47636110"]]);export{v as default};
