@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,p as s,e as _,a as c}from"./index.3613c044.js";const r={},d=e=>(s("data-v-726aa56e"),e=e(),_(),e),i={class:"row"},n=d(()=>c("div",{class:"col-12 title"},"\u6D77\u5916\u914D\u9001",-1)),p=[n];function l(e,v){return t(),o("div",i,p)}var h=a(r,[["render",l],["__scopeId","data-v-726aa56e"]]);export{h as default};
